@@ -46,6 +46,7 @@ class Homework
             }
         }
     }
+    //when find dublicated chars - you should return the list of dublicated chars only, not a list of every match
 
     static void Sort()
     {
@@ -65,3 +66,4 @@ class Homework
         Sort();
     }
 }
+//checked
